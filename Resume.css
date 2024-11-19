@@ -1,0 +1,17 @@
+h1, h3, h5 {
+    color: #333;
+}
+
+.card {
+    border: 1px solid #007bff; /* لون إطار الكارد */
+    border-radius: 10px; /* زوايا دائرية */
+}
+
+.card-title {
+    color: #007bff; /* لون عنوان الكارد */
+    font-weight: bold; /* جعل العنوان عريض */
+}
+
+.mb-4 {
+    margin-bottom: 2rem !important; /* مساحة سفلية بين الكاردات */
+}
